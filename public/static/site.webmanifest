@@ -1,0 +1,12 @@
+{
+    "name": "Fig Spec Viewer",
+    "short_name": "fig-specs.vercel.app",
+    "description": "List of all specs Fig includes.",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "standalone",
+    "dir": "ltr",
+    "lang": "en-GB",
+    "orientation": "portrait-primary",
+    "start_url": "../index.html"
+}

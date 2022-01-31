@@ -1,0 +1,5 @@
+.idea/
+.fig-specs-viewer.iml
+node_modules/
+.next/
+.vercel/
